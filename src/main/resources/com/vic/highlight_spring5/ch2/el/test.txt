@@ -1,0 +1,7 @@
+this is test.txt file under el folder.
+so what contents i will type in this file?
+don't know just need some contents in this file.
+so just input and input....
+hahaha....
+this is line 6.
+this is end line? end in line 7.
